@@ -1,4 +1,4 @@
-# EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
+# EXPERIMENT 02 INTEFACING A DIGITAL INPUT TO ARM DEVELOPMENT BOARD
 #### Name: SHYAM S
 #### Reg.No: 212223240156
 ## Aim:
@@ -152,7 +152,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ![WhatsApp Image 2025-09-11 at 18 04 09_1ad1277a](https://github.com/user-attachments/assets/67bba10e-7922-400a-ba37-38612d20e435)
 
-![WhatsApp Image 2025-09-11 at 18 04 09_5cd9583d](https://github.com/user-attachments/assets/cab44a87-53c0-4712-baed-4a552cc06e9b)
+![WhatsApp Image 2025-09-18 at 14 03 23_6d8bd903](https://github.com/user-attachments/assets/8a73016a-733a-4957-a6da-b5ca593b1e0a)
 
 ## Layout of the circuit:
 
