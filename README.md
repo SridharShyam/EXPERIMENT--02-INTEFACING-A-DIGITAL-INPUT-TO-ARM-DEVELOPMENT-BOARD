@@ -150,9 +150,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 ## Output:
 
-![WhatsApp Image 2025-09-11 at 18 04 09_1ad1277a](https://github.com/user-attachments/assets/67bba10e-7922-400a-ba37-38612d20e435)
+![WhatsApp Image 2025-09-18 at 14 51 43_d0ee4cce](https://github.com/user-attachments/assets/053e2af3-3262-4682-a922-137a1364433a)
 
-![WhatsApp Image 2025-09-18 at 14 03 23_6d8bd903](https://github.com/user-attachments/assets/8a73016a-733a-4957-a6da-b5ca593b1e0a)
+![WhatsApp Image 2025-09-18 at 14 51 47_437a391f](https://github.com/user-attachments/assets/2e1e504e-a1e3-428c-bba0-3d0cc3f95994)
 
 ## Layout of the circuit:
 
